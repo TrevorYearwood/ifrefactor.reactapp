@@ -1,0 +1,44 @@
+[
+    {
+        "studioItemId": 11,
+        "name": "Big Studios",
+        "description": "This is a great big studio. Stepping into the great music studio feels like entering a realm where imagination and craftsmanship meld seamlessly, paving the way for unforgettable sonic experiences.",
+        "price": 1550,
+        "studioItemType": "Drum Machine"
+    },
+    {
+        "studioItemId": 12,
+        "name": "Pixoboo",
+        "description": "Within the walls of the music studio, collaborations flourish, boundaries are pushed, and timeless classics are born, making it a sanctuary for those who seek to leave their mark on the world through music.",
+        "price": 31043,
+        "studioItemType": "Oscillator"
+    },
+    {
+        "studioItemId": 13,
+        "name": "Bubbletube",
+        "description": "As the sun sets and the city's rhythm fades into the background, the music studio comes alive, pulsating with the energy of musicians striving to capture the perfect sound.",
+        "price": 5275,
+        "studioItemType": "Mixer"
+    },
+    {
+        "studioItemId": 14,
+        "name": "Zoonoodle",
+        "description": "From the soothing hum of vintage analog gear to the sleek digital interfaces, every corner of the music studio resonates with the passion and dedication of its creators.",
+        "price": 24878,
+        "studioItemType": "Synthesiser"
+    },
+    {
+        "studioItemId": 15,
+        "name": "Jayo",
+        "description": "With state-of-the-art equipment and acoustically treated rooms, the music studio provides the perfect environment for artists to unleash their musical genius.",
+        "price": 60434,
+        "studioItemType": "Effect"
+    },
+    {
+        "studioItemId": 16,
+        "name": "Dynabox",
+        "description": "Nestled in the heart of the city, the great music studio stands as a beacon of creativity, where melodies come alive and dreams take flight.",
+        "price": 31880,
+        "studioItemType": "Mixer"
+    }
+]
